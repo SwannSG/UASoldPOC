@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>myForm</title>
+  </head>
+  <body>
+    <form method="POST" name="form01" action="someURL" >
+      <label>Field One</label>
+      <input name="fdate" type="date"/>
+      <label>Field Two<label>
+      <input name="ftext" type="text"/>
+      <input type="submit" value="Submit">
+      
+    </form>
+  </body>
+</html>

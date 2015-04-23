@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Parent - test iframe</title>
+  </head>
+  <body>
+    <p>Some crap here<br>
+      More stuff </p>
+    <p><a target="view01" href="file:///home/swannsg/development/UAS/test/child.html">Activate
+        new iframe</a></p>
+    <p><a target="view01" href="file:///home/swannsg/development/UAS/test/child1.html">Second
+        iframe</a></p>
+    <p><br>
+      <a target="view01" href="file:///home/swannsg/development/UAS/test/form1.html">Form
+      </a></p>
+    <p>More stuff</p>
+    <iframe name="view01"></iframe>
+  </body>
+</html>
