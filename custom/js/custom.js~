@@ -9,5 +9,5 @@
 //</div>
 //</div>
 jQuery(function($) {
-    $('#amount').autoNumeric('init');
+    $('#finAmount').autoNumeric('init');
 });
